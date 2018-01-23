@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+SUBWAY HELL GAME DEVELOPMENT PROJECT
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: GAME DEV WITH JAVA AND GREENFOOT
+PURPOSE OF PROJECT: GRADE 12 COMPUTER COURSE FINAL PROJECT
+VERSION or DATE: V 1.1 REV. JAN2017
+HOW TO START THIS PROJECT:  N/A
+AUTHORS: WOOJIN J.
+USER INSTRUCTIONS: REFER TO THE GAME WINDOW!
